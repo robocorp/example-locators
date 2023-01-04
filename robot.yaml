@@ -1,0 +1,16 @@
+tasks:
+  Try Browser Locator:
+    robotTaskName: Try Browser Locator
+  Try Windows Locator:
+    robotTaskName: Try Windows Locator
+  Try Image Locator:
+    robotTaskName: Try Image Locator
+
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

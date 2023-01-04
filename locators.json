@@ -1,0 +1,22 @@
+{
+    "calc-plus": {
+        "screenshot": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAzAE0DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyuGJBGCVBJGeRUnlp/cX/AL5FJF/qk+gp9ADfLT+4v/fIo8tP7i/98inUUAN8tP7i/wDfIo8tP7i/98inUUAN8tP7i/8AfIo8tP7i/wDfIp1FADfLT+4v/fIprQRsfugfTipKKAGRf6pPoKfTIv8AVJ9BT6ACiiigC1ptjJqmq2enwsqy3U6QIz9AzMFBPtzVWuq8F6jax+JtCtm0Wwkl+3wr9qd5/MBMgw2BIEyO3y445BrGvtRtbuARw6LYWTbs+ZA85bHp88jDH4UAZ1FFFABRRRQAyL/VJ9BT6ZF/qk+gp9ABRRRQAoJVgykgg5BHakoooAKKKKACiiigCK3JMIzUtFFABRRRQAUUUUAFFFFABTHYjGDRRQB//9k=",
+        "type": "windows",
+        "value": "id:plusButton",
+        "version": 1,
+        "window": "Calculator"
+    },
+    "google-accept-all": {
+        "screenshot": ".images\\google-accept-all-screenshot.png",
+        "source": "https://www.google.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#L2AGLb > .QS5gu"
+    },
+    "google-reject-all": {
+        "confidence": 84.0,
+        "path": ".images\\google-reject-all-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
