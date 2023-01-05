@@ -9,9 +9,9 @@
     "google-accept-all": {
         "screenshot": ".images\\google-accept-all-screenshot.png",
         "source": "https://www.google.com/",
-        "strategy": "css",
+        "strategy": "xpath",
         "type": "browser",
-        "value": "#L2AGLb > .QS5gu"
+        "value": "//button[2]/div"
     },
     "google-reject-all": {
         "confidence": 84.0,
